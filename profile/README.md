@@ -10,7 +10,7 @@ We do not make chatbots. We make infrastructure.
 
 ## Our Belief
 
-Cloud LLMs (GPT-4, Claude, Kimi, Moonshot) are optimized for conversational fluency. They are **not** optimized for:
+Cloud LLMs (GPT-4, Claude, Gemini, Codex) are optimized for conversational fluency. They are **not** optimized for:
 
 - Deterministic safety (same input → same output, every time)
 - Cryptographic audit trails (every action signed and tamper-evident)
